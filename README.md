@@ -2,8 +2,11 @@
 Documents, Files ,Codes Related to the project
 
 1.randoo.py -> randomize the words and sentences in a text file.
+------------------------------------------------------------------
 2.extract_duration.py -> find out total duration in the database.
+------------------------------------------------------------------
 3.extract normal.py -> download every audio dataset from database.
+------------------------------------------------------------------
 4.extraction original file.py -> Most recent extraction file for downloading datasets according to the range.
                                  use requirements.txt along with the extraction original file.
                                  code:- python3 extract.py --start 0 --end 5 -f hello.json -D audios -y
